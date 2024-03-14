@@ -8,3 +8,4 @@ Requirements
     The program should be tested for accuracy and performance.
 
 2. functions
+For the assignment 2, i used arrow fuction to complete the six tasks described in arrow_fun.dart file.
